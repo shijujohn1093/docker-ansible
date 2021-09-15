@@ -1,0 +1,1 @@
+docker run -it shijujohn1093/ansible sh
